@@ -142,7 +142,7 @@ make test -j
 * table - `binom::Table` - Multiple key-sorted associative heterogeneous container
 
 #### Number value widths:
-* byte - 8 bit width;
+* byte - 8 bits width;
 * word - 16 bit width;
 * dword - 32 bit width;
 * qword - 64 bit width.
